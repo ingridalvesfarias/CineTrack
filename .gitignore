@@ -1,0 +1,25 @@
+# Arquivos compilados
+out/
+bin/
+target/
+*.class
+
+# Pacotes gerados
+*.jar
+*.war
+
+# Configurações de IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Logs e arquivos de crash da JVM
+*.log
+hs_err_pid*
+
+# Lixo do sistema operacional
+.DS_Store
+Thumbs.db
